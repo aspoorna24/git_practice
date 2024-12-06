@@ -1,2 +1,3 @@
-./api/node_modules
-./flask/venv
+./api/node_modules/
+./flask/venv/
+myfile.text
